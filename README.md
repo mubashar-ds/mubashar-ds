@@ -40,7 +40,7 @@ databases, Docker, and cloud-connected systems.
     AWS deployment work
 -   M.S. thesis: **Towards Lightweight and Explainable Deepfake
     Speech Detection Systems**
--   **First-author research paper submitted to ICASSP** based on
+-   **First-author research paper to IEEE Signal Processing Letters (IEEE SPL)** based on
     thesis work
 
 ------------------------------------------------------------------------
@@ -198,8 +198,7 @@ Systems**
 My thesis research focuses on lightweight and explainable deepfake
 speech detection using audio representations and deep learning.
 
-I have **submitted a first-author research paper to
-ICASSP** based on the thesis work and am continuing additional
+I have **submitted a first-author research paper to IEEE Signal Processing Letters (IEEE SPL)** based on thesis work; continuing additional
 experiments and analysis toward the final thesis version.
 
 ------------------------------------------------------------------------
@@ -308,20 +307,9 @@ COMSATS University Islamabad, Lahore Campus\
 
 ## What I'm Looking For
 
-I am interested in opportunities involving:
+Open to **AI Engineer**, **ML Engineer**, **Data Scientist**, and **LLM/GenAI roles**, with a focus on RAG, Agentic AI, Information Retrieval, Computer Vision, and AI systems engineering.
 
--   **AI Engineering**
--   **Machine Learning Engineering**
--   **LLM / GenAI Engineering**
--   **RAG & Information Retrieval**
--   **Agentic AI**
--   **Applied Machine Learning**
--   **Computer Vision**
--   **AI Systems / Backend Engineering**
-
-I am particularly interested in teams building AI products where model
-capability needs to be combined with **retrieval quality, engineering
-reliability, evaluation, and deployment**.
+Interested in teams building reliable AI products across model development, retrieval, evaluation, backend engineering, and deployment.
 
 ------------------------------------------------------------------------
 
