@@ -316,15 +316,14 @@ Computational focus: Programming (C, MATLAB), Computational Physics, Scientific 
 
 ## Research
 
-### M.S. Thesis --- Deepfake Speech Detection
+### M.S. Thesis — Deepfake Speech Detection
 
-**Towards Lightweight and Explainable Deepfake Speech Detection
-Systems**
+**Towards Lightweight and Explainable Deepfake Speech Detection Systems**
 
-My thesis research focuses on lightweight and explainable deepfake
-speech detection using audio representations and deep learning.
+My thesis research focuses on lightweight and explainable deepfake speech detection using audio representations and deep learning.
 
-I have **submitted a first-author research paper to IEEE Signal Processing Letters (IEEE SPL)** based on my thesis work and am continuing additional experiments and analysis toward the final thesis version.
+I have **submitted a first-author research paper to IEEE Signal Processing Letters (IEEE SPL)** based on this thesis work and am continuing additional experiments and analysis toward the final thesis version.
+
 ------------------------------------------------------------------------
 
 ## What I'm Looking For
