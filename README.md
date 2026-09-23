@@ -322,7 +322,7 @@ Computational focus: Programming (C, MATLAB), Computational Physics, Scientific 
 
 My thesis research focuses on lightweight and explainable deepfake speech detection using audio representations and deep learning.
 
-I have **submitted a first-author research paper to IEEE Signal Processing Letters (IEEE SPL)** based on this thesis work and am continuing additional experiments and analysis toward the final thesis version.
+I have **submitted a first-author research paper to IEEE Signal Processing Letters (IEEE SPL)** based on this thesis work.
 
 ------------------------------------------------------------------------
 
