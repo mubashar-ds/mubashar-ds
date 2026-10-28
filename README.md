@@ -276,7 +276,7 @@ deployment** fit together into dependable AI systems.
 
 ## Professional Experience
 
-**Software Engineering Intern – AI/ML**  
+**Software Engineer Intern – AI/ML**  
 *Dev&Mark — Lahore, Pakistan* | *Feb 2026 – Apr 2026*
 
 - Contributed across the software development lifecycle (SDLC), including implementation, debugging, testing, and iterative feature development.
