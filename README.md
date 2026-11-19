@@ -125,7 +125,7 @@ local deployment - Health and integration checks - Centralized logging
 and exception handling - Dense-search fallback for component failures
 
 🔗 **Repository:**
-[quran_hadith_multilingual_rag](https://github.com/mubashar-ds/quran_hadith_multilingual_rag)
+[quran_hadith_multilingual_rag](https://github.com/mubashar-ds/quran-hadith-multilingual-hybrid-rag)
 
 ------------------------------------------------------------------------
 
@@ -146,7 +146,7 @@ FaceForensics++ Q10 ROC-AUC from **0.632 to 0.791** with the combined
 DCT + compression-aware approach
 
 🔗 **Repository:**
-[robust-deepfake-detection](https://github.com/mubashar-ds/robust-deepfake-detection)
+[robust-deepfake-detection](https://github.com/mubashar-ds/robust-image-deepfake-detection)
 
 ------------------------------------------------------------------------
 
@@ -183,7 +183,7 @@ ranking - Evaluation across 50 queries - Precision@10: **0.940** -
 Recall@10: **0.940** - MRR: **0.892** - nDCG@10: **0.904**
 
 🔗 **Repositories:**
-[hybrid_bm25_tfidf_retrieval_system](https://github.com/mubashar-ds/hybrid_bm25_tfidf_retrieval_system)
+[hybrid_bm25_tfidf_retrieval_system](https://github.com/mubashar-ds/hybrid-bm25-tfidf-retrieval-system)
 
 ------------------------------------------------------------------------
 
